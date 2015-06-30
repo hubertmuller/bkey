@@ -1,2 +1,2 @@
 # bkey
-Innovative browser bosskey for everyone
+Innovative browser bosskey for everyone.
